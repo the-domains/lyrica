@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Lyrica]]></title>
         <description><![CDATA[Lyrica]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lyrica/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 15 May 2016 22:04:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/lyrica/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[100 Stunning Picture Quotes That Will Supercharge Your Creativity]]></title>
+            <description><![CDATA[<article><h1>100 Stunning Picture Quotes That Will Supercharge Your Creativity</h1><p>Find your next favorite quote rendered in stunning graphic design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8424258c57e49e23b68199e2e806598a1edf6e.png"></article>]]></description>
+            <link>https://designschool.canva.com/blog/picture-quotes/</link>
+            <guid isPermaLink="false">11b4b1eb-f36c-4efd-b1ce-7c4199d9145f</guid>
+            <pubDate>Sun, 15 May 2016 22:04:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Precious cargo: the Container Artist Residency program sets sail.]]></title>
             <description><![CDATA[<article><h1>Precious cargo: the Container Artist Residency program sets sail.</h1><p>Aboard commercial cargo ships is where the Container Artist Residency 01 program is finding its abode. Completely isolated from the rest of the world, the Residency allows its artists to work in a remote space with no tangible lines of communication to the outside world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d759350ce98ca3bc139cec56370ae7702fae3f5.jpg"></article>]]></description>
