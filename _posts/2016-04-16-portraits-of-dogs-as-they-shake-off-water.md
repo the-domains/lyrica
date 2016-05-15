@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-15T22:04:33.462Z'
+datePublished: '2016-05-15T22:04:33.820Z'
 sourcePath: _posts/2016-04-16-portraits-of-dogs-as-they-shake-off-water.md
 inFeed: true
 isBasedOnUrl: 'http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/'
@@ -17,7 +17,7 @@ keywords:
   - dogs
 related: []
 author: []
-dateModified: '2016-05-15T22:04:32.817Z'
+dateModified: '2016-05-15T22:04:32.851Z'
 title: Portraits of Dogs as They Shake Off Water
 app_links: []
 publisher:
