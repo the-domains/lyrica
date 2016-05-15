@@ -1,0 +1,14 @@
+layout_spectrum: 0.6863062311895192
+typography_spectrum: 0.007287194486707449
+color:
+  brandStrength: 0.4191289108712226
+  lightness: 0.8873829324729741
+  saturation: 0.48435316141694784
+  rhythmicContrast: 0.975155187305063
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Lyrica
